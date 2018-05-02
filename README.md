@@ -22,6 +22,3 @@ This theme is maintained by the following person(s)
 
 If you'd like to contribute to this theme, please email Elan @ elan@elfraiman.com
 
-## License
-
-[MIT License](https://github.com/dracula/visual-studio-code/blob/master/./LICENSE)
